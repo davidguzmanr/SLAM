@@ -49,7 +49,7 @@ bash msvamp.sh
 ```bash
 cd evaluate
 
-bash evaluate_xcsqa6.sh
+bash evaluate_xcsqa2.sh
 ```
 
 ## 🐛 Bugs or Questions?
