@@ -6,7 +6,8 @@ peft==0.10.0
 protobuf==5.29.5
 pydantic==2.10.6
 sentencepiece==0.2.0
-torch==2.6.0+computecanada
+# In Narval I am using 2.6.0+computecanada
+torch==2.6.0
 # Changed from 4.37.2 -> 4.42.3 to allow for Gemma
 transformers==4.42.3
 trl==0.9.6
