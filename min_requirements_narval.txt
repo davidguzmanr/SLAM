@@ -11,3 +11,4 @@ torch==2.6.0
 # Changed from 4.37.2 -> 4.42.3 to allow for Gemma
 transformers==4.42.3
 trl==0.9.6
+lm-eval==0.4.9
